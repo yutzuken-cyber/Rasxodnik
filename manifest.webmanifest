@@ -1,0 +1,12 @@
+{
+  "name": "Кошелёк — личные финансы",
+  "short_name": "Кошелёк",
+  "description": "Простой учёт доходов и расходов",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ecf4f7",
+  "theme_color": "#ecf4f7",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
